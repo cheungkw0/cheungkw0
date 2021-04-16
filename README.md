@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on CSCI3251 Milestones
-- 🌱 I’m currently learning piano and will learn diving
 - 🤔 My favorite hobby is swimming
 - 💬 I'm interested in learning Japanese
 
